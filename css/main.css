@@ -1,0 +1,30 @@
+.buttuon_box{
+    margin-top: 250px;   
+    display: flex;
+    justify-content: space-around;
+}
+.btn1{
+ background-color: aqua;
+width: 400px;
+height: 100px;
+}
+img{
+    width: 200px;
+    display: none;
+}
+.open{
+    display: block;
+}
+.btn2{
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+}
+.css{
+    width: 200px;
+}
+.btn3{
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+}
